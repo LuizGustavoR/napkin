@@ -2,8 +2,6 @@
 
 Construimos o Napkin como um aplicativo gratuito.
 
-Este SERVIÇO é fornecido gratuitamente pela Câmara Municipal de Campo Grande e destina-se a ser utilizado como tal.
-
 Esta página é usada para informar aos usuários android do app nossas políticas com a coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço. Se você optar por usar nosso Serviço, concordará com a coleta e uso de informações relacionadas a essa política.
 
 As Informações Pessoais que coletamos são usadas para fornecer e melhorar o Serviço.
